@@ -11,8 +11,8 @@ const play = document.getElementById('play');
     acorntitle.style.display = 'none';
     characters.style.display = 'block';
 
-  };
-};
+  });
+});
     
   
                                            
