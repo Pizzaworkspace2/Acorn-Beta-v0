@@ -12,7 +12,7 @@
     <center>
       <h1 style="color: lightyellow;">Acorn</h1>
     <br>
-    <button class="button1" id="play" style="height: 120px; width: 500px; color: lightyellow;"><h2>Play</h2></button>
+    <button class="button1" onclick="clicksound()" id="play" style="height: 120px; width: 500px; color: lightyellow;"><h2>Play</h2></button>
     </center>
     </div>
     <div id="characters" style="padding: 20px;">
@@ -24,5 +24,13 @@
 <h2>Snoo</h2>
       </div>
     </div>
+    <audio id="clicks" src="assets/sounds/Mouse Click - Sound Effect (HD).mp3"></audio>
+    <script>
+      const clicks = document.getElementById('clicks');
+
+      function clicksound() {
+        clicks.play();
+      }
+    </script>
   </body>
 </html>
