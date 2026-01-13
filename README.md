@@ -1,2 +1,1 @@
-## LUNCH
-## why did u make dirt an item
+## We need to make a panorama like image for snoos workshop so we can move around
