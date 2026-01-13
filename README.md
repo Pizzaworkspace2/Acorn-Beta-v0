@@ -6,3 +6,5 @@
  **ITEMS SHOULDN"T Be Blocks?**
 **No game anymore**
 **?**
+## No chess game anymore
+## Make items not blocks
