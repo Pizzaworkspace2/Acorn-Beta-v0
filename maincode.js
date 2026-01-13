@@ -17,7 +17,7 @@ const play = document.getElementById('play');
  const chardisplay = document.getElementById('chardisplay');
 
   freddy.addEventListener('click', function() {
-    chardisplay.style.background = 'assets/Freddy.png';
+    chardisplay.style.background = 'url("assets/Freddy.png")';
     });
 });
     
