@@ -33,3 +33,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.button1:hover {
+  background-image: url('assets/button1hover.png');
+  background-size: cover;
+}
+  
