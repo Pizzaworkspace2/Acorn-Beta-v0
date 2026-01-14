@@ -1,4 +1,4 @@
-## We need to make a panorama like image for snoos workshop so we can move around (very long, may need scratch or something
+## Hello marco
 ## We need charactersssss
 ## ok
 ## oops i have to update link
