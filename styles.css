@@ -51,3 +51,14 @@ body {
   border-radius: 8px;
   user-select: none;
 }
+
+@keyframes panorama {
+        0% {
+          background-position: 0;
+        }
+
+        100% {
+          background-position: calc(100vh / 144 * -820);
+        }
+      }
+
