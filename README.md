@@ -1,4 +1,2 @@
-## Hello marco
-## We need charactersssss
-## ok
-## oops i have to update link
+## We need characters and also buttons to navigate to different areas, like for a forest island, we make a button that looks like a forest island etc.
+## Keep working on the images for the map
