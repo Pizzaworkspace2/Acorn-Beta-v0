@@ -2,3 +2,4 @@
 ## Keep working on the images for the map
 ## Then ill work on world navigation page
 ## Ok
+## add paxtonishim7 as a collab
